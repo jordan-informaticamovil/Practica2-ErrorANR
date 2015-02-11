@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Practica2-ErrorANR</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ButtonSleep">ButtonSleep</string>
+    <string name="button_sleep">Sleep</string>
+    <string name="button_limpiar_nombre">Limpiar nombre</string>
+
+</resources>
